@@ -6,7 +6,7 @@
 
 struct sp{char fam[20];int gr;sp *p;};
 
-//ôóíêöèÿ ââîäà1
+//ôóíêöèÿ ââîäà
 void input(sp *first)
 {
 	puts("Ââåäèòå ñòóäåíòà è åãî ãðóïïó");
